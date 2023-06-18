@@ -18,22 +18,22 @@ We begin with an overview of how to form the て-form, then explore the followin
 
 - -てください as "please do..."
 
-> Please read this manga by tomorrow.
+> Please read this manga by tomorrow.<br>
 > 明日までにこの漫画を読んでください。
 
 - -て as linking verb, meaning "and"
 
-> I went to the restaurant and ate dinner.
+> I went to the restaurant and ate dinner.<br>
 > レストランに行って、晩御飯を食べました。
 
 - -ていただけませんか as politer -てください
 
-> Please go to the supermarket tomorrow.
+> Please go to the supermarket tomorrow.<br>
 > 明日スーパーに行きてください。
 
 - -ても as "even if..."
 
-> Even if I work, I won't have money.
+> Even if I work, I won't have money.<br>
 > 仕事をしても、お金がありません。
 
 
@@ -42,20 +42,20 @@ Next, we explore ways to say "which", viz.:
 
 - Which (of two nouns) is more...
 
-> Which is tastier, sushi or cucumber?
+> Which is tastier, sushi or cucumber?<br>
 > すしときゅうりとどちらおいしいですか？
 
 - Which (of two actions) is more...
 
-> Which is harder, going to school or going to work?
+> Which is harder, going to school or going to work?<br>
 > 学校に行きますのと仕事に行きますとどちらむずかしいですか？
 
 - Which of all (things) is most...
 
-> すしと天ぷらとラーメンとの中で、どれが美味しいですか？
+> すしと天ぷらとラーメンとの中で、どれが美味しいですか？<br>
 > Which is tastier, sushi, tempura, or ramen?
 
-> 漫画の中で、どれがいいですか？
+> 漫画の中で、どれがいいですか？<br>
 > Which is the best manga (of all)?
 
 #### Context
@@ -68,4 +68,3 @@ Additional "miscellaneous" topics to expect in Unit 4 include:
   - Intervals with 時間
   - Telling Time
   - Dates, Months & Years
-  - 
